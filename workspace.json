@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "projects": {
+    "tme": "apps/tme",
+    "tme-e2e": "apps/tme-e2e",
+    "ui": "libs/ui"
+  }
+}
