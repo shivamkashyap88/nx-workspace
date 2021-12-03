@@ -1,6 +1,11 @@
 import styles from './app.module.scss'
 
-export function App() {
+class abc {
+  abc() {
+    
+  }
+}
+export function App  () {
   return <div>Hello World!</div>
 }
 
